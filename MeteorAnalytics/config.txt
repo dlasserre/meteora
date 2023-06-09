@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+# Configuration-File for ProcessData
+# ---------------------------------------------------------------------------------
+# parameters for the sine-function modelling the diurnal course of sporadic meteors
+# amplitude:
+24.0
+# offset:
+60.0
+#----------------------------------------------------------------------------------
+# timeshift local time -> UTC:
+-1
+#----------------------------------------------------------------------------------
+# position of meteor reflections:
+# geographic longitude (decimal degrees), - = west:
+5.5151
+# geographic latitude (decimal degrees), - = south:
+45.11
+# elevation above sea (m):
+100000
+#----------------------------------------------------------------------------------
+# Maximum duration of an underdense trail [s]:
+0.4
+#----------------------------------------------------------------------------------
+# Time span, within signals will be conflated [s]:
+0.525
+#----------------------------------------------------------------------------------
+# Altitude limit for radio-ZHR [degrees]:
+15.0
+#----------------------------------------------------------------------------------
