@@ -10,6 +10,10 @@ Ils sont de nouveau fonctionnel en version 3 de python, j'ai trouvé intéressan
 N'hésitez pas à vous rendre sur le site du développer pour la documentation, je n'ai rien fait de plus que la migration du code en [python 3](https://www.python.org/downloads/).
 http://www.ars-electromagnetica.de/robs/download.html
 
+Pensez a installer les librairie nécéssaires :
+
+    pip uninstall scipy pyaudio ephem matplotlib
+
 **ATTENTION** il faut lancer les soft depuis le powershell ou la console windows, comme ci-dessous :
 
     python .\MeteorLogger_v1.24a.py
